@@ -67,7 +67,13 @@
                 <br>
                 <a href="/pegawai/hapus/{{ $p->pegawai_id }}" style="color:red">
                     <i class="fa fa-trash" style="font-size:20px; color:red" ></i>
-                    Hapus</a>
+                    Hapus
+                </a>
+                <br>
+                <a href="/pegawai/read/{{ $p->pegawai_id }}">
+                    <i class="fas fa-info-circle" style="font-size:20p"></i>
+                    Detail
+                </a>
 
             </td>
 		</tr>

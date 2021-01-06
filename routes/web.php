@@ -27,6 +27,8 @@ Route::get('/web', 'PegawaiController@coba');
 Route::get('/pegawai', 'PegawaiController@index');
 Route::get('/pendapatan', 'PendapatanController@index');
 
+Route::get('/pegawai/read/{id}', 'PegawaiController@read');
+
 Route::get('/pegawai/tambah','PegawaiController@tambah');
 Route::get('/pendapatan/tambahpendapatan','PendapatanController@tambah');
 
