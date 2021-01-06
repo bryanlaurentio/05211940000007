@@ -266,24 +266,9 @@
                         <span class="nav__logo-name"><h5><b>PWeb D</b></h5></span>
                     </div>
                     <div class="nav__list">
-                        <a href="#" class="nav__link">
-                            <i class='fa fa-calendar-check-o' ></i>
-                            <span class="nav__name"> &nbsp Absen</span>
-                        </a>
-
                         <a href="/pendapatan" class="nav__link">
                             <i class='fa fa-folder-open-o' ></i>
                             <span class="nav__name">Pendapatan</span>
-                        </a>
-
-                        <a href="#" class="nav__link ">
-                            <i class='fa fa-handshake-o' ></i>
-                            <span class="nav__name">Tugas</span>
-                        </a>
-
-                        <a href="#" class="nav__link">
-                            <i class='fa fa-id-badge' ></i>
-                            <span class="nav__name"> &nbsp Mutasi</span>
                         </a>
                         <a href="/pegawai" class="nav__link">
                             <i class="fas fa-laptop-house"></i>
