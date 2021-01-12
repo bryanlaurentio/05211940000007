@@ -29,7 +29,6 @@ Route::get('/pendapatan', 'PendapatanController@index');
 Route::get('/meja', 'MejaController@index');
 Route::get('/mahasiswa', 'MahasiswaController@index');
 
-Route::get('/pegawai/read/{id}', 'PegawaiController@read');
 
 Route::get('/pegawai/tambah','PegawaiController@tambah');
 Route::get('/pendapatan/tambahpendapatan','PendapatanController@tambah');
@@ -59,3 +58,4 @@ Route::get('/pendapatan/caripendapatan','PendapatanController@cari');
 Route::get('/meja/cari','MejaController@cari');
 Route::get('/mahasiswa/cari','MahasiswaController@cari');
 
+Route::get('/pegawai/read/{id}', 'PegawaiController@read');

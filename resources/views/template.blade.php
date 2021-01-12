@@ -276,7 +276,7 @@
                         </a>
                         <a href="/meja" class="nav__link">
                             <i class="fas fa-table"></i>
-                            <span class="nav__name">&nbsp Meja</span>
+                            <span class="nav__name">Meja</span>
                         </a>
                         <a href="/mahasiswa" class="nav__link">
                             <i class="fas fa-user-friends"></i>

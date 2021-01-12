@@ -9,7 +9,7 @@
       <div class="row">
         <div class="col" style="text-align: center">
           <h4>Tabel Mahasiswa</h4>
-          <p>Tabel Mahasiswa Menyajikan Data Tiap Mahasiswa</p>
+          <p>Tabel Mahasiswa Menyajikan Data Tiap-tiap Mahasiswa</p>
         </div>
       </div>
     </div>
